@@ -1,0 +1,1563 @@
+
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Impressão, Nascer do Sol",
+      "en": "Impression, Sunrise"
+    },
+    "year": 1872,
+    "description": {
+      "pt": "A obra que deu nome ao movimento impressionista, retratando o porto de Le Havre ao amanhecer.",
+      "en": "The work that gave name to the Impressionist movement, depicting the port of Le Havre at sunrise."
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Nenúfares",
+      "en": "Water Lilies"
+    },
+    "year": 1906,
+    "description": {
+      "pt": "Uma das famosas pinturas da série de nenúfares de Giverny, capturando reflexos e luz na água.",
+      "en": "One of the famous paintings from the Giverny water lilies series, capturing reflections and light on water."
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Mulheres no Jardim",
+      "en": "Women in the Garden"
+    },
+    "year": 1866,
+    "description": {
+      "pt": "Retrato de mulheres elegantes em um jardim ensolarado, demonstrando o domínio de Monet sobre luz e sombra.",
+      "en": "Portrait of elegant women in a sunny garden, demonstrating Monet's mastery of light and shadow."
+    }
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "A Ponte Japonesa",
+      "en": "The Japanese Bridge"
+    },
+    "year": 1899,
+    "description": {
+      "pt": "Icônica representação da ponte em seu jardim de Giverny, cercada por vegetação exuberante.",
+      "en": "Iconic representation of the bridge in his Giverny garden, surrounded by lush vegetation."
+    }
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Papoulas em Argenteuil",
+      "en": "Poppies at Argenteuil"
+    },
+    "year": 1873,
+    "description": {
+      "pt": "Campo vibrante de papoulas vermelhas com figuras caminhando, celebrando a beleza da natureza.",
+      "en": "Vibrant field of red poppies with walking figures, celebrating the beauty of nature."
+    }
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "A Catedral de Rouen",
+      "en": "Rouen Cathedral"
+    },
+    "year": 1894,
+    "description": {
+      "pt": "Parte da série estudando os efeitos da luz na fachada da catedral em diferentes horas do dia.",
+      "en": "Part of the series studying light effects on the cathedral facade at different times of day."
+    }
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Regata em Argenteuil",
+      "en": "Regatta at Argenteuil"
+    },
+    "year": 1872,
+    "description": {
+      "pt": "Cena vibrante de barcos à vela no Sena, capturando o movimento e os reflexos na água.",
+      "en": "Vibrant scene of sailboats on the Seine, capturing movement and reflections on water."
+    }
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "O Jardim do Artista em Giverny",
+      "en": "The Artist's Garden at Giverny"
+    },
+    "year": 1900,
+    "description": {
+      "pt": "Vista exuberante do jardim pessoal de Monet, repleto de flores coloridas e caminhos sinuosos.",
+      "en": "Lush view of Monet's personal garden, filled with colorful flowers and winding paths."
+    }
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Almoço na Relva",
+      "en": "Luncheon on the Grass"
+    },
+    "year": 1865,
+    "description": {
+      "pt": "Cena de piquenique ao ar livre, demonstrando a técnica impressionista de capturar luz natural.",
+      "en": "Outdoor picnic scene, demonstrating the Impressionist technique of capturing natural light."
+    }
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Lírios de Água, Harmonia Verde",
+      "en": "Water Lilies, Green Harmony"
+    },
+    "year": 1899,
+    "description": {
+      "pt": "Composição serena de nenúfares flutuando em tons de verde e azul.",
+      "en": "Serene composition of water lilies floating in shades of green and blue."
+    }
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Caminho no Jardim de Monet",
+      "en": "Path in Monet's Garden"
+    },
+    "year": 1902,
+    "description": {
+      "pt": "Caminho florido através do jardim de Giverny, convidando o observador a passear.",
+      "en": "Flowered path through the Giverny garden, inviting the viewer to stroll."
+    }
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1578301978018-3005759f48f7",
+    "title": {
+      "pt": "A Estação Saint-Lazare",
+      "en": "The Saint-Lazare Station"
+    },
+    "year": 1877,
+    "description": {
+      "pt": "Representação moderna da estação ferroviária com vapor e luz filtrada através do vidro.",
+      "en": "Modern representation of the railway station with steam and light filtered through glass."
+    }
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Nascer do Sol Marinho",
+      "en": "Marine Sunrise"
+    },
+    "year": 1873,
+    "description": {
+      "pt": "Estudo atmosférico do amanhecer sobre o mar com tons suaves de laranja e azul.",
+      "en": "Atmospheric study of dawn over the sea with soft tones of orange and blue."
+    }
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Campo de Papoulas",
+      "en": "Poppy Field"
+    },
+    "year": 1881,
+    "description": {
+      "pt": "Explosão de cores vermelhas em um campo de papoulas sob o céu azul.",
+      "en": "Explosion of red colors in a poppy field under the blue sky."
+    }
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Reflexos de Nuvens",
+      "en": "Cloud Reflections"
+    },
+    "year": 1920,
+    "description": {
+      "pt": "Estudo abstrato de reflexos de nuvens na superfície da água do lago.",
+      "en": "Abstract study of cloud reflections on the lake's water surface."
+    }
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte sobre o Lago de Nenúfares",
+      "en": "Bridge over the Water Lily Pond"
+    },
+    "year": 1897,
+    "description": {
+      "pt": "Vista serena da ponte japonesa refletida nas águas calmas do lago.",
+      "en": "Serene view of the Japanese bridge reflected in the calm waters of the pond."
+    }
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Mulher com Sombrinha",
+      "en": "Woman with a Parasol"
+    },
+    "year": 1875,
+    "description": {
+      "pt": "Retrato dinâmico de uma mulher com sombrinha em um dia ventoso.",
+      "en": "Dynamic portrait of a woman with a parasol on a windy day."
+    }
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral ao Pôr do Sol",
+      "en": "Cathedral at Sunset"
+    },
+    "year": 1892,
+    "description": {
+      "pt": "A fachada da catedral banhada pela luz dourada do entardecer.",
+      "en": "The cathedral facade bathed in the golden light of dusk."
+    }
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Barcos no Porto",
+      "en": "Boats in the Harbor"
+    },
+    "year": 1874,
+    "description": {
+      "pt": "Cena portuária com barcos balançando suavemente nas águas azuis.",
+      "en": "Harbor scene with boats gently swaying in the blue waters."
+    }
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Jardim em Flor",
+      "en": "Garden in Bloom"
+    },
+    "year": 1895,
+    "description": {
+      "pt": "Explosão de cores primaveris no jardim repleto de flores variadas.",
+      "en": "Explosion of spring colors in the garden full of varied flowers."
+    }
+  },
+  {
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Piquenique à Beira do Rio",
+      "en": "Picnic by the River"
+    },
+    "year": 1869,
+    "description": {
+      "pt": "Cena idílica de lazer à beira do rio em um dia ensolarado.",
+      "en": "Idyllic leisure scene by the river on a sunny day."
+    }
+  },
+  {
+    "id": 22,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Azuis",
+      "en": "Blue Water Lilies"
+    },
+    "year": 1916,
+    "description": {
+      "pt": "Composição tranquila dominada por tons de azul e verde.",
+      "en": "Tranquil composition dominated by shades of blue and green."
+    }
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Aurora no Porto",
+      "en": "Dawn at the Harbor"
+    },
+    "year": 1871,
+    "description": {
+      "pt": "Primeiras luzes do dia iluminando o porto envolto em névoa.",
+      "en": "First lights of day illuminating the harbor shrouded in mist."
+    }
+  },
+  {
+    "id": 24,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Primavera Florescente",
+      "en": "Blooming Spring"
+    },
+    "year": 1886,
+    "description": {
+      "pt": "Celebração da primavera com campos floridos e céu luminoso.",
+      "en": "Celebration of spring with flowered fields and luminous sky."
+    }
+  },
+  {
+    "id": 25,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Lago ao Entardecer",
+      "en": "Pond at Dusk"
+    },
+    "year": 1918,
+    "description": {
+      "pt": "Atmosfera serena do lago quando o dia encontra a noite.",
+      "en": "Serene atmosphere of the pond when day meets night."
+    }
+  },
+  {
+    "id": 26,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte em Tons Pastéis",
+      "en": "Bridge in Pastel Tones"
+    },
+    "year": 1900,
+    "description": {
+      "pt": "Interpretação suave da ponte japonesa em cores delicadas.",
+      "en": "Soft interpretation of the Japanese bridge in delicate colors."
+    }
+  },
+  {
+    "id": 27,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Passeio no Campo",
+      "en": "Walk in the Countryside"
+    },
+    "year": 1876,
+    "description": {
+      "pt": "Figuras elegantes passeando por campos verdejantes.",
+      "en": "Elegant figures strolling through verdant fields."
+    }
+  },
+  {
+    "id": 28,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral em Luz Matinal",
+      "en": "Cathedral in Morning Light"
+    },
+    "year": 1893,
+    "description": {
+      "pt": "Estudo da arquitetura gótica sob a luz suave da manhã.",
+      "en": "Study of Gothic architecture under the soft morning light."
+    }
+  },
+  {
+    "id": 29,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Velas ao Vento",
+      "en": "Sails in the Wind"
+    },
+    "year": 1875,
+    "description": {
+      "pt": "Barcos à vela capturados em movimento dinâmico.",
+      "en": "Sailboats captured in dynamic movement."
+    }
+  },
+  {
+    "id": 30,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Caminhos Floridos",
+      "en": "Flowered Paths"
+    },
+    "year": 1901,
+    "description": {
+      "pt": "Caminhos sinuosos através de jardins exuberantes.",
+      "en": "Winding paths through lush gardens."
+    }
+  },
+  {
+    "id": 31,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Tarde de Verão",
+      "en": "Summer Afternoon"
+    },
+    "year": 1868,
+    "description": {
+      "pt": "Cena relaxante de uma tarde de verão ao ar livre.",
+      "en": "Relaxing scene of a summer afternoon outdoors."
+    }
+  },
+  {
+    "id": 32,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares em Rosa",
+      "en": "Water Lilies in Pink"
+    },
+    "year": 1917,
+    "description": {
+      "pt": "Delicada composição com tons rosados e reflexos suaves.",
+      "en": "Delicate composition with pink tones and soft reflections."
+    }
+  },
+  {
+    "id": 33,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Névoa Matinal",
+      "en": "Morning Mist"
+    },
+    "year": 1870,
+    "description": {
+      "pt": "Paisagem envolta em névoa suave ao amanhecer.",
+      "en": "Landscape shrouded in soft mist at dawn."
+    }
+  },
+  {
+    "id": 34,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Papoulas Selvagens",
+      "en": "Wild Poppies"
+    },
+    "year": 1879,
+    "description": {
+      "pt": "Campo natural de papoulas balançando ao vento.",
+      "en": "Natural field of poppies swaying in the wind."
+    }
+  },
+  {
+    "id": 35,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Reflexos Dourados",
+      "en": "Golden Reflections"
+    },
+    "year": 1919,
+    "description": {
+      "pt": "Luz dourada refletida na superfície tranquila da água.",
+      "en": "Golden light reflected on the tranquil water surface."
+    }
+  },
+  {
+    "id": 36,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte Verde",
+      "en": "Green Bridge"
+    },
+    "year": 1895,
+    "description": {
+      "pt": "A ponte cercada por vegetação verde exuberante.",
+      "en": "The bridge surrounded by lush green vegetation."
+    }
+  },
+  {
+    "id": 37,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Dama no Jardim",
+      "en": "Lady in the Garden"
+    },
+    "year": 1867,
+    "description": {
+      "pt": "Retrato elegante de uma mulher em meio às flores.",
+      "en": "Elegant portrait of a woman among the flowers."
+    }
+  },
+  {
+    "id": 38,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral Azulada",
+      "en": "Bluish Cathedral"
+    },
+    "year": 1894,
+    "description": {
+      "pt": "Tons azuis dominam esta visão da catedral.",
+      "en": "Blue tones dominate this view of the cathedral."
+    }
+  },
+  {
+    "id": 39,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Regata Colorida",
+      "en": "Colorful Regatta"
+    },
+    "year": 1873,
+    "description": {
+      "pt": "Velas coloridas pontilham o horizonte aquático.",
+      "en": "Colorful sails dot the aquatic horizon."
+    }
+  },
+  {
+    "id": 40,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Jardim de Íris",
+      "en": "Iris Garden"
+    },
+    "year": 1903,
+    "description": {
+      "pt": "Íris roxas e amarelas dominam este canto do jardim.",
+      "en": "Purple and yellow irises dominate this corner of the garden."
+    }
+  },
+  {
+    "id": 41,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Descanso à Sombra",
+      "en": "Rest in the Shade"
+    },
+    "year": 1866,
+    "description": {
+      "pt": "Figuras descansando sob a sombra das árvores.",
+      "en": "Figures resting under the shade of trees."
+    }
+  },
+  {
+    "id": 42,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares ao Meio-Dia",
+      "en": "Water Lilies at Noon"
+    },
+    "year": 1914,
+    "description": {
+      "pt": "Luz intensa do meio-dia sobre o lago de nenúfares.",
+      "en": "Intense midday light over the water lily pond."
+    }
+  },
+  {
+    "id": 43,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Porto ao Amanhecer",
+      "en": "Harbor at Dawn"
+    },
+    "year": 1874,
+    "description": {
+      "pt": "Primeiras luzes revelando a atividade portuária.",
+      "en": "First lights revealing harbor activity."
+    }
+  },
+  {
+    "id": 44,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Campo Vermelho",
+      "en": "Red Field"
+    },
+    "year": 1880,
+    "description": {
+      "pt": "Intensidade cromática de um campo de flores vermelhas.",
+      "en": "Chromatic intensity of a field of red flowers."
+    }
+  },
+  {
+    "id": 45,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Água e Céu",
+      "en": "Water and Sky"
+    },
+    "year": 1921,
+    "description": {
+      "pt": "Fusão entre água e céu em tons harmoniosos.",
+      "en": "Fusion between water and sky in harmonious tones."
+    }
+  },
+  {
+    "id": 46,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte das Glicínias",
+      "en": "Wisteria Bridge"
+    },
+    "year": 1898,
+    "description": {
+      "pt": "Glicínias pendentes emolduram a ponte japonesa.",
+      "en": "Hanging wisteria frames the Japanese bridge."
+    }
+  },
+  {
+    "id": 47,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Sombrinha Branca",
+      "en": "White Parasol"
+    },
+    "year": 1886,
+    "description": {
+      "pt": "Contraste da sombrinha branca contra o céu azul.",
+      "en": "Contrast of white parasol against blue sky."
+    }
+  },
+  {
+    "id": 48,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral Rosada",
+      "en": "Pink Cathedral"
+    },
+    "year": 1892,
+    "description": {
+      "pt": "Tons rosados envolvem a fachada da catedral.",
+      "en": "Pink tones envelop the cathedral facade."
+    }
+  },
+  {
+    "id": 49,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Barcos à Deriva",
+      "en": "Drifting Boats"
+    },
+    "year": 1871,
+    "description": {
+      "pt": "Barcos flutuando suavemente nas águas calmas.",
+      "en": "Boats floating gently on calm waters."
+    }
+  },
+  {
+    "id": 50,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Alameda Floral",
+      "en": "Floral Avenue"
+    },
+    "year": 1902,
+    "description": {
+      "pt": "Caminho ladeado por flores coloridas de ambos os lados.",
+      "en": "Path flanked by colorful flowers on both sides."
+    }
+  },
+  {
+    "id": 51,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Encontro no Parque",
+      "en": "Meeting in the Park"
+    },
+    "year": 1867,
+    "description": {
+      "pt": "Cena social em um parque arborizado.",
+      "en": "Social scene in a wooded park."
+    }
+  },
+  {
+    "id": 52,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Violetas",
+      "en": "Violet Water Lilies"
+    },
+    "year": 1915,
+    "description": {
+      "pt": "Tons violetas predominam nesta composição aquática.",
+      "en": "Violet tones predominate in this aquatic composition."
+    }
+  },
+  {
+    "id": 53,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Bruma Portuária",
+      "en": "Harbor Haze"
+    },
+    "year": 1872,
+    "description": {
+      "pt": "Porto envolvido em bruma atmosférica.",
+      "en": "Harbor enveloped in atmospheric haze."
+    }
+  },
+  {
+    "id": 54,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Papoulas ao Vento",
+      "en": "Poppies in the Wind"
+    },
+    "year": 1878,
+    "description": {
+      "pt": "Movimento capturado das papoulas balançando.",
+      "en": "Captured movement of swaying poppies."
+    }
+  },
+  {
+    "id": 55,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Espelho d'Água",
+      "en": "Water Mirror"
+    },
+    "year": 1920,
+    "description": {
+      "pt": "Superfície da água como um espelho perfeito.",
+      "en": "Water surface like a perfect mirror."
+    }
+  },
+  {
+    "id": 56,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte em Flor",
+      "en": "Bridge in Bloom"
+    },
+    "year": 1896,
+    "description": {
+      "pt": "Flores cercam completamente a ponte japonesa.",
+      "en": "Flowers completely surround the Japanese bridge."
+    }
+  },
+  {
+    "id": 57,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Elegância Campestre",
+      "en": "Country Elegance"
+    },
+    "year": 1870,
+    "description": {
+      "pt": "Figuras elegantes em ambiente rural.",
+      "en": "Elegant figures in rural setting."
+    }
+  },
+  {
+    "id": 58,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral Dourada",
+      "en": "Golden Cathedral"
+    },
+    "year": 1893,
+    "description": {
+      "pt": "Luz dourada banha a arquitetura gótica.",
+      "en": "Golden light bathes the Gothic architecture."
+    }
+  },
+  {
+    "id": 59,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Velas Brancas",
+      "en": "White Sails"
+    },
+    "year": 1874,
+    "description": {
+      "pt": "Velas brancas contrastam com o azul do mar.",
+      "en": "White sails contrast with the blue of the sea."
+    }
+  },
+  {
+    "id": 60,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Jardim Multicolorido",
+      "en": "Multicolored Garden"
+    },
+    "year": 1904,
+    "description": {
+      "pt": "Explosão de cores em todas as direções.",
+      "en": "Explosion of colors in all directions."
+    }
+  },
+  {
+    "id": 61,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Lazer ao Ar Livre",
+      "en": "Outdoor Leisure"
+    },
+    "year": 1869,
+    "description": {
+      "pt": "Momento de relaxamento em ambiente natural.",
+      "en": "Moment of relaxation in natural environment."
+    }
+  },
+  {
+    "id": 62,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Vespertinos",
+      "en": "Evening Water Lilies"
+    },
+    "year": 1916,
+    "description": {
+      "pt": "Luz do entardecer sobre o lago de nenúfares.",
+      "en": "Evening light over the water lily pond."
+    }
+  },
+  {
+    "id": 63,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Impressão Marítima",
+      "en": "Maritime Impression"
+    },
+    "year": 1873,
+    "description": {
+      "pt": "Captura impressionista do ambiente marítimo.",
+      "en": "Impressionist capture of maritime environment."
+    }
+  },
+  {
+    "id": 64,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Tapete de Flores",
+      "en": "Carpet of Flowers"
+    },
+    "year": 1881,
+    "description": {
+      "pt": "Campo densamente coberto de flores vermelhas.",
+      "en": "Field densely covered with red flowers."
+    }
+  },
+  {
+    "id": 65,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Serenidade Aquática",
+      "en": "Aquatic Serenity"
+    },
+    "year": 1922,
+    "description": {
+      "pt": "Paz e tranquilidade emanam desta cena aquática.",
+      "en": "Peace and tranquility emanate from this aquatic scene."
+    }
+  },
+  {
+    "id": 66,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Arco Verde",
+      "en": "Green Arch"
+    },
+    "year": 1897,
+    "description": {
+      "pt": "Ponte formando um arco verde sobre a água.",
+      "en": "Bridge forming a green arch over the water."
+    }
+  },
+  {
+    "id": 67,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Passeio Elegante",
+      "en": "Elegant Stroll"
+    },
+    "year": 1875,
+    "description": {
+      "pt": "Figuras em trajes elegantes passeando.",
+      "en": "Figures in elegant attire strolling."
+    }
+  },
+  {
+    "id": 68,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral em Sombras",
+      "en": "Cathedral in Shadows"
+    },
+    "year": 1894,
+    "description": {
+      "pt": "Jogo de luz e sombra na fachada gótica.",
+      "en": "Play of light and shadow on Gothic facade."
+    }
+  },
+  {
+    "id": 69,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Navegação Tranquila",
+      "en": "Tranquil Sailing"
+    },
+    "year": 1872,
+    "description": {
+      "pt": "Barcos navegando em águas calmas.",
+      "en": "Boats sailing on calm waters."
+    }
+  },
+  {
+    "id": 70,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Paraíso Floral",
+      "en": "Floral Paradise"
+    },
+    "year": 1905,
+    "description": {
+      "pt": "Jardim que parece um verdadeiro paraíso.",
+      "en": "Garden that seems like a true paradise."
+    }
+  },
+  {
+    "id": 71,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Reunião Campestre",
+      "en": "Country Gathering"
+    },
+    "year": 1868,
+    "description": {
+      "pt": "Pessoas reunidas em ambiente campestre.",
+      "en": "People gathered in country setting."
+    }
+  },
+  {
+    "id": 72,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Crepusculares",
+      "en": "Twilight Water Lilies"
+    },
+    "year": 1917,
+    "description": {
+      "pt": "Cores do crepúsculo refletidas na água.",
+      "en": "Twilight colors reflected in the water."
+    }
+  },
+  {
+    "id": 73,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Amanhecer Nebuloso",
+      "en": "Foggy Dawn"
+    },
+    "year": 1871,
+    "description": {
+      "pt": "Névoa densa ao amanhecer no porto.",
+      "en": "Dense fog at dawn in the harbor."
+    }
+  },
+  {
+    "id": 74,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Mar de Papoulas",
+      "en": "Sea of Poppies"
+    },
+    "year": 1879,
+    "description": {
+      "pt": "Ondas vermelhas de papoulas se estendem.",
+      "en": "Red waves of poppies extend."
+    }
+  },
+  {
+    "id": 75,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Harmonia Aquática",
+      "en": "Aquatic Harmony"
+    },
+    "year": 1923,
+    "description": {
+      "pt": "Perfeita harmonia de cores e formas.",
+      "en": "Perfect harmony of colors and forms."
+    }
+  },
+  {
+    "id": 76,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte Refletida",
+      "en": "Reflected Bridge"
+    },
+    "year": 1899,
+    "description": {
+      "pt": "Reflexo perfeito da ponte na água.",
+      "en": "Perfect reflection of bridge in water."
+    }
+  },
+  {
+    "id": 77,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Tarde no Campo",
+      "en": "Afternoon in the Field"
+    },
+    "year": 1876,
+    "description": {
+      "pt": "Luz da tarde ilumina figuras no campo.",
+      "en": "Afternoon light illuminates figures in field."
+    }
+  },
+  {
+    "id": 78,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral Luminosa",
+      "en": "Luminous Cathedral"
+    },
+    "year": 1892,
+    "description": {
+      "pt": "Luz intensa realça os detalhes arquitetônicos.",
+      "en": "Intense light highlights architectural details."
+    }
+  },
+  {
+    "id": 79,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Flotilha",
+      "en": "Flotilla"
+    },
+    "year": 1873,
+    "description": {
+      "pt": "Grupo de barcos navegando juntos.",
+      "en": "Group of boats sailing together."
+    }
+  },
+  {
+    "id": 80,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Esplendor do Jardim",
+      "en": "Garden Splendor"
+    },
+    "year": 1906,
+    "description": {
+      "pt": "Jardim em seu momento de maior esplendor.",
+      "en": "Garden at its moment of greatest splendor."
+    }
+  },
+  {
+    "id": 81,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Convívio ao Ar Livre",
+      "en": "Outdoor Gathering"
+    },
+    "year": 1867,
+    "description": {
+      "pt": "Momento de convívio em ambiente natural.",
+      "en": "Moment of gathering in natural environment."
+    }
+  },
+  {
+    "id": 82,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Noturnos",
+      "en": "Nocturnal Water Lilies"
+    },
+    "year": 1918,
+    "description": {
+      "pt": "Tons escuros da noite sobre o lago.",
+      "en": "Dark tones of night over the pond."
+    }
+  },
+  {
+    "id": 83,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Despertar do Porto",
+      "en": "Harbor Awakening"
+    },
+    "year": 1874,
+    "description": {
+      "pt": "Porto despertando com as primeiras luzes.",
+      "en": "Harbor awakening with first lights."
+    }
+  },
+  {
+    "id": 84,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Vermelho Vibrante",
+      "en": "Vibrant Red"
+    },
+    "year": 1880,
+    "description": {
+      "pt": "Intensidade máxima do vermelho das papoulas.",
+      "en": "Maximum intensity of poppy red."
+    }
+  },
+  {
+    "id": 85,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Contemplação Aquática",
+      "en": "Aquatic Contemplation"
+    },
+    "year": 1924,
+    "description": {
+      "pt": "Obra que convida à contemplação silenciosa.",
+      "en": "Work that invites silent contemplation."
+    }
+  },
+  {
+    "id": 86,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte das Sombras",
+      "en": "Bridge of Shadows"
+    },
+    "year": 1900,
+    "description": {
+      "pt": "Sombras dançam sob a ponte japonesa.",
+      "en": "Shadows dance under the Japanese bridge."
+    }
+  },
+  {
+    "id": 87,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Brisa Suave",
+      "en": "Gentle Breeze"
+    },
+    "year": 1877,
+    "description": {
+      "pt": "Brisa suave move vestidos e sombrinha.",
+      "en": "Gentle breeze moves dresses and parasol."
+    }
+  },
+  {
+    "id": 88,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral ao Meio-Dia",
+      "en": "Cathedral at Noon"
+    },
+    "year": 1893,
+    "description": {
+      "pt": "Luz do meio-dia sobre a fachada gótica.",
+      "en": "Midday light on Gothic facade."
+    }
+  },
+  {
+    "id": 89,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Horizonte Marítimo",
+      "en": "Maritime Horizon"
+    },
+    "year": 1875,
+    "description": {
+      "pt": "Barcos pontilham o horizonte distante.",
+      "en": "Boats dot the distant horizon."
+    }
+  },
+  {
+    "id": 90,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Sinfonia Floral",
+      "en": "Floral Symphony"
+    },
+    "year": 1907,
+    "description": {
+      "pt": "Cores se harmonizam como uma sinfonia.",
+      "en": "Colors harmonize like a symphony."
+    }
+  },
+  {
+    "id": 91,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Festa Campestre",
+      "en": "Country Party"
+    },
+    "year": 1869,
+    "description": {
+      "pt": "Celebração alegre em ambiente rural.",
+      "en": "Joyful celebration in rural setting."
+    }
+  },
+  {
+    "id": 92,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Prateados",
+      "en": "Silver Water Lilies"
+    },
+    "year": 1919,
+    "description": {
+      "pt": "Reflexos prateados na superfície da água.",
+      "en": "Silver reflections on water surface."
+    }
+  },
+  {
+    "id": 93,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Silhuetas Matinais",
+      "en": "Morning Silhouettes"
+    },
+    "year": 1872,
+    "description": {
+      "pt": "Silhuetas de barcos na luz matinal.",
+      "en": "Boat silhouettes in morning light."
+    }
+  },
+  {
+    "id": 94,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Dança das Papoulas",
+      "en": "Dance of Poppies"
+    },
+    "year": 1881,
+    "description": {
+      "pt": "Papoulas parecem dançar ao vento.",
+      "en": "Poppies seem to dance in the wind."
+    }
+  },
+  {
+    "id": 95,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Paz Aquática",
+      "en": "Aquatic Peace"
+    },
+    "year": 1925,
+    "description": {
+      "pt": "Última obra da série, emanando paz profunda.",
+      "en": "Last work of series, emanating deep peace."
+    }
+  },
+  {
+    "id": 96,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte ao Entardecer",
+      "en": "Bridge at Dusk"
+    },
+    "year": 1901,
+    "description": {
+      "pt": "Cores do entardecer envolvem a ponte.",
+      "en": "Dusk colors envelop the bridge."
+    }
+  },
+  {
+    "id": 97,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Graça Feminina",
+      "en": "Feminine Grace"
+    },
+    "year": 1878,
+    "description": {
+      "pt": "Retrato capturando a graça feminina.",
+      "en": "Portrait capturing feminine grace."
+    }
+  },
+  {
+    "id": 98,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral Vespertina",
+      "en": "Evening Cathedral"
+    },
+    "year": 1894,
+    "description": {
+      "pt": "Luz vespertina transforma a catedral.",
+      "en": "Evening light transforms the cathedral."
+    }
+  },
+  {
+    "id": 99,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Velas ao Pôr do Sol",
+      "en": "Sails at Sunset"
+    },
+    "year": 1876,
+    "description": {
+      "pt": "Velas iluminadas pelo sol poente.",
+      "en": "Sails illuminated by setting sun."
+    }
+  },
+  {
+    "id": 100,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Glória do Jardim",
+      "en": "Garden Glory"
+    },
+    "year": 1908,
+    "description": {
+      "pt": "Jardim em toda sua glória primaveril.",
+      "en": "Garden in all its spring glory."
+    }
+  },
+  {
+    "id": 101,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Momento Idílico",
+      "en": "Idyllic Moment"
+    },
+    "year": 1870,
+    "description": {
+      "pt": "Captura de um momento perfeitamente idílico.",
+      "en": "Capture of a perfectly idyllic moment."
+    }
+  },
+  {
+    "id": 102,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Finais",
+      "en": "Final Water Lilies"
+    },
+    "year": 1926,
+    "description": {
+      "pt": "Uma das últimas obras antes de sua morte.",
+      "en": "One of the last works before his death."
+    }
+  },
+  {
+    "id": 103,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Última Impressão",
+      "en": "Last Impression"
+    },
+    "year": 1875,
+    "description": {
+      "pt": "Impressão final do porto ao amanhecer.",
+      "en": "Final impression of harbor at dawn."
+    }
+  },
+  {
+    "id": 104,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Memória de Flores",
+      "en": "Memory of Flowers"
+    },
+    "year": 1882,
+    "description": {
+      "pt": "Campo de flores como uma memória vívida.",
+      "en": "Field of flowers like a vivid memory."
+    }
+  },
+  {
+    "id": 105,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Reflexões Eternas",
+      "en": "Eternal Reflections"
+    },
+    "year": 1926,
+    "description": {
+      "pt": "Reflexões que parecem eternas na água.",
+      "en": "Reflections that seem eternal in water."
+    }
+  },
+  {
+    "id": 106,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Ponte Eterna",
+      "en": "Eternal Bridge"
+    },
+    "year": 1903,
+    "description": {
+      "pt": "A ponte que se tornou símbolo eterno.",
+      "en": "The bridge that became eternal symbol."
+    }
+  },
+  {
+    "id": 107,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Beleza Atemporal",
+      "en": "Timeless Beauty"
+    },
+    "year": 1879,
+    "description": {
+      "pt": "Retrato de beleza que transcende o tempo.",
+      "en": "Portrait of beauty that transcends time."
+    }
+  },
+  {
+    "id": 108,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Catedral Imortal",
+      "en": "Immortal Cathedral"
+    },
+    "year": 1895,
+    "description": {
+      "pt": "Visão imortalizada da catedral gótica.",
+      "en": "Immortalized vision of Gothic cathedral."
+    }
+  },
+  {
+    "id": 109,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Navegação Eterna",
+      "en": "Eternal Sailing"
+    },
+    "year": 1877,
+    "description": {
+      "pt": "Barcos navegando para a eternidade.",
+      "en": "Boats sailing into eternity."
+    }
+  },
+  {
+    "id": 110,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Jardim Perpétuo",
+      "en": "Perpetual Garden"
+    },
+    "year": 1909,
+    "description": {
+      "pt": "Jardim que parece florescer eternamente.",
+      "en": "Garden that seems to bloom eternally."
+    }
+  },
+  {
+    "id": 111,
+    "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec",
+    "title": {
+      "pt": "Alegria Eterna",
+      "en": "Eternal Joy"
+    },
+    "year": 1871,
+    "description": {
+      "pt": "Momento de alegria capturado para sempre.",
+      "en": "Moment of joy captured forever."
+    }
+  },
+  {
+    "id": 112,
+    "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e",
+    "title": {
+      "pt": "Nenúfares Imortais",
+      "en": "Immortal Water Lilies"
+    },
+    "year": 1920,
+    "description": {
+      "pt": "Nenúfares que vivem para sempre na arte.",
+      "en": "Water lilies that live forever in art."
+    }
+  },
+  {
+    "id": 113,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5",
+    "title": {
+      "pt": "Amanhecer Eterno",
+      "en": "Eternal Dawn"
+    },
+    "year": 1876,
+    "description": {
+      "pt": "Amanhecer que nunca termina.",
+      "en": "Dawn that never ends."
+    }
+  },
+  {
+    "id": 114,
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5",
+    "title": {
+      "pt": "Primavera Eterna",
+      "en": "Eternal Spring"
+    },
+    "year": 1883,
+    "description": {
+      "pt": "Primavera capturada em sua essência eterna.",
+      "en": "Spring captured in its eternal essence."
+    }
+  },
+  {
+    "id": 115,
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912",
+    "title": {
+      "pt": "Tranquilidade Infinita",
+      "en": "Infinite Tranquility"
+    },
+    "year": 1921,
+    "description": {
+      "pt": "Tranquilidade que se estende ao infinito.",
+      "en": "Tranquility that extends to infinity."
+    }
+  },
+  {
+    "id": 116,
+    "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968",
+    "title": {
+      "pt": "Passagem Atemporal",
+      "en": "Timeless Passage"
+    },
+    "year": 1904,
+    "description": {
+      "pt": "Ponte como passagem através do tempo.",
+      "en": "Bridge as passage through time."
+    }
+  },
+  {
+    "id": 117,
+    "image": "https://images.unsplash.com/photo-1578926078060-0c3a994e3ae4",
+    "title": {
+      "pt": "Momento Congelado",
+      "en": "Frozen Moment"
+    },
+    "year": 1880,
+    "description": {
+      "pt": "Momento congelado no tempo pela arte.",
+      "en": "Moment frozen in time by art."
+    }
+  },
+  {
+    "id": 118,
+    "image": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3",
+    "title": {
+      "pt": "Pedra Viva",
+      "en": "Living Stone"
+    },
+    "year": 1896,
+    "description": {
+      "pt": "Catedral de pedra que parece viver.",
+      "en": "Stone cathedral that seems to live."
+    }
+  },
+  {
+    "id": 119,
+    "image": "https://images.unsplash.com/photo-1549887534-1541e9326642",
+    "title": {
+      "pt": "Viagem Infinita",
+      "en": "Infinite Journey"
+    },
+    "year": 1878,
+    "description": {
+      "pt": "Barcos em viagem que nunca termina.",
+      "en": "Boats on journey that never ends."
+    }
+  },
+  {
+    "id": 120,
+    "image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d",
+    "title": {
+      "pt": "Legado Floral",
+      "en": "Floral Legacy"
+    },
+    "year": 1910,
+    "description": {
+      "pt": "O legado final de Monet em flores.",
+      "en": "Monet's final legacy in flowers."
+    }
+  }
+]

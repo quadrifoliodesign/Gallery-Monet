@@ -1,0 +1,103 @@
+
+{
+  "pt": {
+    "nav": {
+      "home": "Início",
+      "gallery": "Galeria",
+      "about": "Sobre",
+      "contact": "Contato",
+      "language": "Idioma"
+    },
+    "home": {
+      "title": "Claude Monet",
+      "subtitle": "O Pai do Impressionismo",
+      "description": "Explore a vida, a arte e o legado de um dos pintores mais influentes da história. Testemunhe como Monet capturou a luz e a atmosfera em suas obras-primas atemporais.",
+      "button": "Ver Galeria"
+    },
+    "biography": {
+      "title": "Biografia de Claude Monet",
+      "subtitle": "Mestre do Impressionismo",
+      "intro": "Oscar-Claude Monet (Paris, 14 de novembro de 1840 — Giverny, 5 de dezembro de 1926) foi um pintor francês e o mais célebre entre os pintores impressionistas.",
+      "earlyLife": {
+        "title": "Primeiros Anos",
+        "content": "Nascido em Paris, Monet passou sua juventude em Le Havre, onde desenvolveu seu amor pela pintura ao ar livre. Suas primeiras obras eram caricaturas, mas logo descobriu sua verdadeira paixão pela paisagem e pela captura da luz natural."
+      },
+      "impressionism": {
+        "title": "O Impressionismo",
+        "content": "Monet foi um dos fundadores do movimento impressionista. O termo 'Impressionismo' deriva de sua obra 'Impressão, nascer do sol' (1872). Este movimento revolucionário rejeitou as convenções acadêmicas, focando na captura de momentos fugazes e nos efeitos da luz natural."
+      },
+      "giverny": {
+        "title": "Giverny e os Nenúfares",
+        "content": "Em 1883, Monet mudou-se para Giverny, onde criou seus famosos jardins aquáticos. Suas séries de nenúfares, pintadas nas últimas décadas de sua vida, são consideradas obras-primas do impressionismo tardio e precursoras da arte abstrata."
+      },
+      "legacy": {
+        "title": "Legado",
+        "content": "Monet continuou pintando até sua morte em 1926, apesar de problemas de visão causados por cataratas. Sua obra influenciou gerações de artistas e permanece como um dos pilares da arte moderna. Suas pinturas são celebradas mundialmente por sua beleza, técnica inovadora e capacidade de capturar a essência efêmera da luz e da natureza."
+      }
+    },
+    "gallery": {
+      "title": "Galeria de Obras",
+      "artworks": "obras"
+    },
+    "contact": {
+      "title": "Contato",
+      "subtitle": "Entre em contato conosco",
+      "message": "🚧 Este recurso ainda não está implementado — mas não se preocupe! Você pode solicitá-lo em seu próximo prompt! 🚀",
+      "infoTitle": "Informações",
+      "infoContent": "Para questões de direitos autorais ou informações sobre a arte, entre em contato com os respectivos museus e proprietários."
+    },
+    "footer": {
+      "developed": "Desenvolvido por"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "gallery": "Gallery",
+      "about": "About",
+      "contact": "Contact",
+      "language": "Language"
+    },
+    "home": {
+      "title": "Claude Monet",
+      "subtitle": "The Father of Impressionism",
+      "description": "Explore the life, art, and legacy of one of history's most influential painters. Witness how Monet captured light and atmosphere in his timeless masterpieces.",
+      "button": "View Gallery"
+    },
+    "biography": {
+      "title": "Biography of Claude Monet",
+      "subtitle": "Master of Impressionism",
+      "intro": "Oscar-Claude Monet (Paris, November 14, 1840 — Giverny, December 5, 1926) was a French painter and the most celebrated among the Impressionist painters.",
+      "earlyLife": {
+        "title": "Early Years",
+        "content": "Born in Paris, Monet spent his youth in Le Havre, where he developed his love for outdoor painting. His early works were caricatures, but he soon discovered his true passion for landscape and capturing natural light."
+      },
+      "impressionism": {
+        "title": "Impressionism",
+        "content": "Monet was one of the founders of the Impressionist movement. The term 'Impressionism' derives from his work 'Impression, Sunrise' (1872). This revolutionary movement rejected academic conventions, focusing on capturing fleeting moments and the effects of natural light."
+      },
+      "giverny": {
+        "title": "Giverny and the Water Lilies",
+        "content": "In 1883, Monet moved to Giverny, where he created his famous water gardens. His water lily series, painted in the last decades of his life, are considered masterpieces of late Impressionism and precursors to abstract art."
+      },
+      "legacy": {
+        "title": "Legacy",
+        "content": "Monet continued painting until his death in 1926, despite vision problems caused by cataracts. His work influenced generations of artists and remains one of the pillars of modern art. His paintings are celebrated worldwide for their beauty, innovative technique, and ability to capture the ephemeral essence of light and nature."
+      }
+    },
+    "gallery": {
+      "title": "Art Gallery",
+      "artworks": "artworks"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Get in touch with us",
+      "message": "🚧 This feature isn't implemented yet—but don't worry! You can request it in your next prompt! 🚀",
+      "infoTitle": "Information",
+      "infoContent": "For copyright inquiries or information about the art, please contact the respective museums and owners."
+    },
+    "footer": {
+      "developed": "Developed by"
+    }
+  }
+}
