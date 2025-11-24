@@ -37,8 +37,10 @@ const Contact = ({
           </p>
           
           <div className="flex items-center justify-center bg-yellow-100 border-l-4 border-yellow-500 text-yellow-800 p-4 rounded-md mt-4 text-left" role="alert">
-            <p className="font-bold">Todas as imagens foram adquiridas através do site da NetMundi.org</p>
-            <p className="font-garamond text-lg">***Sessão de formulário para chamar no gmail em desenvolvimento***</p>
+            <p className="font-bold">
+              {t.contact.imagesCredit} <a className="text-yellow-800 underline" href="https://www.netmundi.org/home/">{t.contact.imagesCreditSource}</a>
+            </p>
+            <p className="font-garamond text-lg">{t.contact.formNotice}</p>
           </div>
         </div>
       </motion.div>
